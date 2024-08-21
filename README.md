@@ -1,3 +1,15 @@
+
+# Arifmart 
+---
+## Introduction
+---
+Arifmart is an online E-commerce application store Project made by React
+
+## Features
+- Users sing in the app .
+- customer can choos the product.
+- users able to add the product to carts
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
